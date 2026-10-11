@@ -57,3 +57,5 @@ chmod 770 /sec
 chmod 777 /publico
 
 echo "Fim..."
+
+![Evidência do Script](./Screenshot%202026-10-11%20172103.png)
